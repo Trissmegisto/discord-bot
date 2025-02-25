@@ -1,6 +1,4 @@
-/* eslint-disable brace-style */
 const { Events, MessageFlags, Collection } = require('discord.js');
-
 
 module.exports = {
 	name: Events.InteractionCreate,
